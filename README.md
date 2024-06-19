@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-s-krishnavarma&label=Profile%20views&color=0e75b6&style=flat" alt="j-s-krishnavarma" /> </p>
 
-- 🌱 I’m currently learning **Python, R programming, C++, java**
+- 🌱 I’m currently learning **Python, SQL, C#, MongoDB**
 
-- 📫 How to reach me **imjskv@gmail.com**
+- 📫 How to reach me **jahithsaikrishnavarma@gmail.com**
 
 - ⚡ Fun fact **Did you know, Fourteen people with seven keys control one key aspect of the internet.**
 
